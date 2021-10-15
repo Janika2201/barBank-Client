@@ -9,6 +9,7 @@
     "start": "node __sapper__/build"
   },
   "dependencies": {
+    "api.js": "0.0.5",
     "body-parser": "^1.19.0",
     "bootstrap": "^5.1.1",
     "compression": "^1.7.1",
